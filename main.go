@@ -1,3 +1,6 @@
+// Solution to Topcoder problem.
+// https://community.topcoder.com/stat?c=problem_statement&pm=15285&rd=17396
+
 package main
 
 import (
